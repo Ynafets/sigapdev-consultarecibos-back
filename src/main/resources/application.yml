@@ -2,11 +2,11 @@ spring:
   datasource:
     driverClassName: org.postgresql.Driver    
     url: jdbc:postgresql://67.205.143.180/tcs2
-    username: modulo2
-    password: modulo2
+    username: modulo4
+    password: modulo4
 
 server:
-   port: 8080
+   port: 5432
    
 eureka:
   client:
